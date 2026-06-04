@@ -77,7 +77,7 @@ The translation covers the main game interface, subtitles, mission objectives, t
 
 ## Screenshots
 
-![Thai Localization](Screenshots/comparison.jpg)
+![Thai Localization](comparison.jpg)
 
 ---
 
